@@ -19,7 +19,7 @@ As of 2024.08.23, Claude.ai does not offer a built-in feature to share chat conv
 1. Open the Claude.ai interface containing the chat messages.
 2. Open the browser's developer tools (usually by pressing `F12` or `Ctrl+Shift+I`).
 3. Go to the "Console" tab.
-4. Copy and paste the script from [claude_chat_export_md.js](claude_chat_export_md.js) into the console and press `Enter`.
+4. Copy and paste the script from [claude_chat_export_md.js](https://github.com/TonySimonovsky/aichamp_code_snippets/blob/main/claude_chat_export/claude_chat_export_example.md) into the console and press `Enter`.
 
 5. The script will automatically download a file named `chat_conversation.md` containing the extracted and formatted chat messages.
 
