@@ -25,7 +25,7 @@ As of 2024.08.23, Claude.ai does not offer a built-in feature to share chat conv
 
 ## Example Output
 
-Here is an example of what the output might look like: [claude_chat_export_example.md](claude_chat_export_example.md)
+Here is an example of what the output might look like: [claude_chat_export_example.md](https://github.com/TonySimonovsky/aichamp_code_snippets/blob/main/claude_chat_export/laude_chat_export_md.js)
 
 ## License
 
